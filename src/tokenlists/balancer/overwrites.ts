@@ -311,4 +311,5 @@ export const overwrites: OverwritesForList = {
     },
   },
   [Network.Zkevm]: {},
+  [Network.Manlte]: {},
 }

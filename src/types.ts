@@ -10,6 +10,7 @@ export enum Network {
   Zkevm = '1101',
   Avalanche = '43114',
   Sepolia = '11155111',
+  Manlte = '5001'
 }
 
 export interface Config {

@@ -18,6 +18,11 @@ function getProvider(network: Network): InfuraProvider | JsonRpcProvider {
       `https://avalanche-mainnet.infura.io/v3/${process.env.INFURA_KEY}`
     )
   }
+    if (network === Network.Manlte) {
+    return new JsonRpcProvider(
+      `https://rpc.testnet.mantle.xyz`
+    )
+  }
   return new InfuraProvider(Number(network), process.env.INFURA_KEY)
 }
 
