@@ -29,6 +29,14 @@
     },
     {
       "chainId": 59140,
+      "address": "0x2C1b868d6596a18e32E61B901E4060C872647b6C",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+    },
+    {
+      "chainId": 59140,
       "address": "0x8042bAf687c2342930558806e8E6A2B946B22a22",
       "name": "USD Coin",
       "symbol": "USDC",
