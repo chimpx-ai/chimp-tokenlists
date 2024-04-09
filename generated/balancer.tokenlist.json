@@ -27,6 +27,22 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
     },
+        {
+      "chainId": 443,
+      "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+      "name": "Token A",
+      "symbol": "tokena",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+    },
+        {
+      "chainId": 443,
+      "address": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+      "name": "Token B",
+      "symbol": "tokenb",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+    },
     {
       "chainId": 59144,
       "address": "0xa219439258ca9da29e9cc4ce5596924745e12b93",
