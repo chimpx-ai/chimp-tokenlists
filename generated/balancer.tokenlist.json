@@ -43,6 +43,38 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
     },
+        {
+      "chainId": 443,
+      "address": "0xcCc35636492BEbB4407Ee7032005D9C6BDBc4cEA",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+        {
+      "chainId": 443,
+      "address": "0xBFc547d70a66E180675Ec09aEe89dDa614E9bBFf",
+      "name": "DAI",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+           {
+      "chainId": 443,
+      "address": "0xEF2aDb3A5C5DE195BC8235A3ae7F477942F883e7",
+      "name": "DOGE",
+      "symbol": "DOGE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+    },
+        {
+      "chainId": 443,
+      "address": "0xF6624FCD565f2269B35b1137Fe1b4270de75fF69",
+      "name": "SHIB",
+      "symbol": "SHIB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+    },
     {
       "chainId": 59144,
       "address": "0xa219439258ca9da29e9cc4ce5596924745e12b93",
