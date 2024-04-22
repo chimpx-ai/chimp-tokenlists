@@ -31,7 +31,7 @@
       "chainId": 443,
       "address": "0x4198F3c6F91222eaf3f8Fc9d6795DA3CB9374044",
       "name": "Token A",
-      "symbol": "tokena",
+      "symbol": "TOKENA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
     },
@@ -39,13 +39,13 @@
       "chainId": 443,
       "address": "0x47B4Ce74b7E03d39dFb52d9d5d6097e25eBF02b2",
       "name": "Token B",
-      "symbol": "tokenb",
+      "symbol": "TOKENB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
     },
         {
       "chainId": 443,
-      "address": "0xcCc35636492BEbB4407Ee7032005D9C6BDBc4cEA",
+      "address": "0xBA2D36731C5c3BD44c968c3F6485DFfABA0c27Db",
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
@@ -53,7 +53,7 @@
     },
         {
       "chainId": 443,
-      "address": "0xBFc547d70a66E180675Ec09aEe89dDa614E9bBFf",
+      "address": "0x119433282601Eed5E7cCd7EEB6A46DC6682e1b89",
       "name": "DAI",
       "symbol": "DAI",
       "decimals": 18,
@@ -61,17 +61,17 @@
     },
            {
       "chainId": 443,
-      "address": "0xEF2aDb3A5C5DE195BC8235A3ae7F477942F883e7",
-      "name": "DOGE",
-      "symbol": "DOGE",
+      "address": "0xaF0c61C3536A77A264839a26fDf48dD7D7E2578D",
+      "name": "USDT",
+      "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
         {
       "chainId": 443,
-      "address": "0xF6624FCD565f2269B35b1137Fe1b4270de75fF69",
-      "name": "SHIB",
-      "symbol": "SHIB",
+      "address": "0xd91edAf9F2CA3E7c614B1Dc9C79b89D54433Ff43",
+      "name": "Chimp Test Token",
+      "symbol": "CTT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
     },
