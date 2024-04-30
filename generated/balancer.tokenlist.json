@@ -45,7 +45,7 @@
     },
         {
       "chainId": 443,
-      "address": "0xBA2D36731C5c3BD44c968c3F6485DFfABA0c27Db",
+      "address": "0x679a912A058f3f6BbF2EdAeAaF62d6Fa8A040730",
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
@@ -53,7 +53,7 @@
     },
         {
       "chainId": 443,
-      "address": "0x119433282601Eed5E7cCd7EEB6A46DC6682e1b89",
+      "address": "0xbF2A827eBE586Fe58B65F0F3f4fa83E9A79b27cb",
       "name": "DAI",
       "symbol": "DAI",
       "decimals": 18,
@@ -61,7 +61,7 @@
     },
            {
       "chainId": 443,
-      "address": "0xaF0c61C3536A77A264839a26fDf48dD7D7E2578D",
+      "address": "0xB547d0Ff2665b00B50C6803067547Cd1c02A5D3f",
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 18,
@@ -69,7 +69,7 @@
     },
         {
       "chainId": 443,
-      "address": "0xd91edAf9F2CA3E7c614B1Dc9C79b89D54433Ff43",
+      "address": "0xe93a9475917D4a668e53b1cFE923756994352B34",
       "name": "Chimp Test Token",
       "symbol": "CTT",
       "decimals": 18,
