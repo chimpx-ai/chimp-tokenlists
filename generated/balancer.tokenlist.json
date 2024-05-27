@@ -77,10 +77,10 @@
     },
     {
       "chainId": 59144,
-      "address": "0xa219439258ca9da29e9cc4ce5596924745e12b93",
+      "address": "0xDc4A91d5591B7e0717D3f3507637825Af53F43e6",
       "name": "USD Tether",
       "symbol": "USDT",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
     {
