@@ -29,7 +29,7 @@
     },
         {
       "chainId": 443,
-      "address": "0x4198F3c6F91222eaf3f8Fc9d6795DA3CB9374044",
+      "address": "0xBcb3FbD2d4B0039854c17279eaD73ECf2C5f9081",
       "name": "Token A",
       "symbol": "TOKENA",
       "decimals": 18,
@@ -37,7 +37,7 @@
     },
         {
       "chainId": 443,
-      "address": "0x47B4Ce74b7E03d39dFb52d9d5d6097e25eBF02b2",
+      "address": "0xa25cE29166c1579522E0570c480b056eB6df46C0",
       "name": "Token B",
       "symbol": "TOKENB",
       "decimals": 18,
@@ -45,7 +45,7 @@
     },
         {
       "chainId": 443,
-      "address": "0xC94A21085be213658d3Ac7Bf310466609a23924c",
+      "address": "0x850EAbdEEd4152E6C521FCEc45F465273ca7ab66",
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
@@ -53,7 +53,7 @@
     },
         {
       "chainId": 443,
-      "address": "0x47607BbB2d39D2F7866af8B3060d6D96c0e54E3a",
+      "address": "0x78CA03FFA42a64fc32C4568b33b60Aaa898c5d87",
       "name": "DAI",
       "symbol": "DAI",
       "decimals": 18,
@@ -61,7 +61,7 @@
     },
            {
       "chainId": 443,
-      "address": "0x04CfEC4A10CF7C178790365b936719d4eB321cE9",
+      "address": "0xEF2EBfF56A2A522B5ecea265F2A6899FBa4a26F7",
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 18,
@@ -69,7 +69,7 @@
     },
         {
       "chainId": 443,
-      "address": "0xe6F5C866439fd7c19EFa2540BDcd50570743c474",
+      "address": "0x6953EeAD09f53B85be9d6c9C061315DEFA77dcbb",
       "name": "Chimp Test Token",
       "symbol": "CTT",
       "decimals": 18,
