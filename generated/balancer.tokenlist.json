@@ -45,7 +45,7 @@
     },
         {
       "chainId": 443,
-      "address": "0x850EAbdEEd4152E6C521FCEc45F465273ca7ab66",
+      "address": "0x35c2137A93AdEc1b3CF1c6EcF2e5deF28B07a6A1",
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
@@ -53,7 +53,7 @@
     },
         {
       "chainId": 443,
-      "address": "0x78CA03FFA42a64fc32C4568b33b60Aaa898c5d87",
+      "address": "0x84DAC8D816a5BE31349C926b74D784a9fa4981A1",
       "name": "DAI",
       "symbol": "DAI",
       "decimals": 18,
@@ -61,7 +61,7 @@
     },
            {
       "chainId": 443,
-      "address": "0xD19f62b5A721747A04b969C90062CBb85D4aAaA8",
+      "address": "0x2aCCb25eBFe63AAC2D499ef4CB2ca9972D8Ee7c6",
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 18,
@@ -69,11 +69,19 @@
     },
         {
       "chainId": 443,
-      "address": "0x6953EeAD09f53B85be9d6c9C061315DEFA77dcbb",
+      "address": "0x2210fB8299f6a49842417B425471221E16E15583",
       "name": "Chimp Test Token",
       "symbol": "CTT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+    },
+        {
+      "chainId": 443,
+      "address": "0x20BCC298Be1c5ff2F937183F31fDF755A7815C35",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
     },
     {
       "chainId": 59144,
