@@ -35,23 +35,7 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
     },
-        {
-      "chainId": 443,
-      "address": "0xBcb3FbD2d4B0039854c17279eaD73ECf2C5f9081",
-      "name": "Token A",
-      "symbol": "TOKENA",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
-    },
-        {
-      "chainId": 443,
-      "address": "0xa25cE29166c1579522E0570c480b056eB6df46C0",
-      "name": "Token B",
-      "symbol": "TOKENB",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
-    },
-        {
+    {
       "chainId": 443,
       "address": "0x9020A718516E1eb58000A59B0D09BF1149C8f44f",
       "name": "USD Coin",
