@@ -29,6 +29,14 @@
     },
         {
       "chainId": 443,
+      "address": "0xBFF14bD8143e94EdDA4f7136b40b02692Ede69A8",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+    },
+        {
+      "chainId": 443,
       "address": "0xBcb3FbD2d4B0039854c17279eaD73ECf2C5f9081",
       "name": "Token A",
       "symbol": "TOKENA",
@@ -45,7 +53,7 @@
     },
         {
       "chainId": 443,
-      "address": "0x35c2137A93AdEc1b3CF1c6EcF2e5deF28B07a6A1",
+      "address": "0x9020A718516E1eb58000A59B0D09BF1149C8f44f",
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
@@ -53,7 +61,7 @@
     },
         {
       "chainId": 443,
-      "address": "0x84DAC8D816a5BE31349C926b74D784a9fa4981A1",
+      "address": "0x1bF7C4Ce64d723bD07cD7F4ff84bF7857EF89C55",
       "name": "DAI",
       "symbol": "DAI",
       "decimals": 18,
@@ -61,7 +69,7 @@
     },
            {
       "chainId": 443,
-      "address": "0x2aCCb25eBFe63AAC2D499ef4CB2ca9972D8Ee7c6",
+      "address": "0xd024C90b9bf53b60162de002D93Db10Fa52F3808",
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 18,
@@ -69,7 +77,7 @@
     },
         {
       "chainId": 443,
-      "address": "0x2210fB8299f6a49842417B425471221E16E15583",
+      "address": "0x49218437200B2DfEeb19bFCb03F5a1Be2A4adECe",
       "name": "Chimp Test Token",
       "symbol": "CTT",
       "decimals": 18,
@@ -77,7 +85,7 @@
     },
         {
       "chainId": 443,
-      "address": "0x20BCC298Be1c5ff2F937183F31fDF755A7815C35",
+      "address": "0xe2D7eF7C9ec1B5edE8c089E176384b065861d4bB",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 18,
