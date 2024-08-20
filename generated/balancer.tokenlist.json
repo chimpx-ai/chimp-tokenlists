@@ -29,7 +29,7 @@
     },
         {
       "chainId": 443,
-      "address": "0xBFF14bD8143e94EdDA4f7136b40b02692Ede69A8",
+      "address": "0xb7a15563250f69DfF2d87DB3B6cA53108d0bC362",
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
@@ -53,7 +53,7 @@
     },
            {
       "chainId": 443,
-      "address": "0xd024C90b9bf53b60162de002D93Db10Fa52F3808",
+      "address": "0x38dE9ee2BbCDbdB1B025fD7534Fbfb40926BE719",
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 18,
