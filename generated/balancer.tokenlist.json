@@ -19,6 +19,45 @@
   "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
   "timestamp": "2023-07-19T02:36:07.641Z",
   "tokens": [
+        {
+      "chainId": 1952959480,
+      "address": "0x1a1aF9C78704D3a0Ab9e031C92E7bd808711A582",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+    },
+    {
+      "chainId": 1952959480,
+      "address": "0x9140084f70C3DF3ed0Cf7a13c7617CC7a45C3E25",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 1952959480,
+      "address": "0x8f60119E7b6D0691097232e8F25E19961623ad27",
+      "name": "DAI",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "chainId": 1952959480,
+      "address": "0x286381aEdd20e51f642fE4A200B5CB2Fe3729695",
+      "name": "Chimp Test Token",
+      "symbol": "CTT",
+      "decimals": 18
+    },
+      {
+      "chainId": 1952959480,
+      "address": "0xA4F6268f8f6CA4D9160C584338587B515AfF7B88",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
     {
       "chainId": 59144,
       "address": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
