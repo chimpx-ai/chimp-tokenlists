@@ -186,44 +186,52 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
     },
     {
-      "chainId": 443,
-      "address": "0xb7a15563250f69DfF2d87DB3B6cA53108d0bC362",
+      "chainId": 8443,
+      "address": "0x8D36BF7eaaa3c9C83b4e5E31c1C34D0cFAA93522",
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
     },
     {
-      "chainId": 443,
-      "address": "0x467624a53D45D976f5180a91962587e95181139f",
+      "chainId": 8443,
+      "address": "0x4133558201E740977955BfE16718b42B65506949",
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
-      "chainId": 443,
-      "address": "0x2AeFbb83eea5094379D761753A66c5135d9D2231",
+      "chainId": 8443,
+      "address": "0x5769dbb004136beE89371538020ce087a7c3754A",
       "name": "DAI",
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
     },
     {
-      "chainId": 443,
-      "address": "0x07ebfD2Bc66fFF4D6408AC529e4e8EA60B8e6eA3",
+      "chainId": 8443,
+      "address": "0x3D658D4eE44739b6Ddc80e1D3BdF0085913e2148",
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
     {
-      "chainId": 443,
-      "address": "0xa7cEa1DBB0De18e484538217e42f21D2248AF335",
-      "name": "Chimp Test Token",
-      "symbol": "CTT",
+      "chainId": 8443,
+      "address": "0x07E0088B2141209c8549432026e33f06b81Ea7f2",
+      "name": "ChimpX",
+      "symbol": "CHIMP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+    },
+    {
+      "chainId": 8443,
+      "address": "0x0c71a2458b7FFf69BC77d53B86a1cB9CCD0A4ABc",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
     },
     {
       "chainId": 59144,
