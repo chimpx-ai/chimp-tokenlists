@@ -187,7 +187,7 @@
     },
     {
       "chainId": 8443,
-      "address": "0x8D36BF7eaaa3c9C83b4e5E31c1C34D0cFAA93522",
+      "address": "0x9140084f70C3DF3ed0Cf7a13c7617CC7a45C3E25",
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
@@ -195,7 +195,7 @@
     },
     {
       "chainId": 8443,
-      "address": "0x4133558201E740977955BfE16718b42B65506949",
+      "address": "0x55813EDB4b83a3286bB69c826Cb81BF8c7773524",
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
@@ -203,7 +203,7 @@
     },
     {
       "chainId": 8443,
-      "address": "0x5769dbb004136beE89371538020ce087a7c3754A",
+      "address": "0xA4F6268f8f6CA4D9160C584338587B515AfF7B88",
       "name": "DAI",
       "symbol": "DAI",
       "decimals": 18,
@@ -211,7 +211,7 @@
     },
     {
       "chainId": 8443,
-      "address": "0x3D658D4eE44739b6Ddc80e1D3BdF0085913e2148",
+      "address": "0x8f60119E7b6D0691097232e8F25E19961623ad27",
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 18,
@@ -219,7 +219,7 @@
     },
     {
       "chainId": 8443,
-      "address": "0x07E0088B2141209c8549432026e33f06b81Ea7f2",
+      "address": "0xb2F2537E332F9A1aADa289df9fC770D5120613C9",
       "name": "ChimpX",
       "symbol": "CHIMP",
       "decimals": 18,
@@ -227,7 +227,7 @@
     },
     {
       "chainId": 8443,
-      "address": "0x0c71a2458b7FFf69BC77d53B86a1cB9CCD0A4ABc",
+      "address": "0x0E027d85f326Ff39ebCCbf4a79335c79324ca2Ce",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 18,
